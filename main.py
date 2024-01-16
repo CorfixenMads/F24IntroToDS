@@ -8,3 +8,5 @@ from sklearn import metrics
 from six import StringIO
 from IPython.display import Image
 import pydotplus
+import matplotlib.pyplot as plt
+from sklearn import tree
